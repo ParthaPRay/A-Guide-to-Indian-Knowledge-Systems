@@ -46,7 +46,7 @@ For any commercial use or activities beyond the scope of the CC BY-NC 4.0 Licens
 
 Please note that supplementary materials, resources, and updates related to the book "A Guide to Indian Knowledge Systems" are dynamically available at the following GitHub repository:
 
-https://github.com/ParthaPRay/A-Guide-to-Indian-Knowledge-Systems/
+         https://github.com/ParthaPRay/A-Guide-to-Indian-Knowledge-Systems/
 
   - The content in this repository is intended to complement and enhance the information provided in the published book. It may include additional references, visuals, clarifications, errata, or any other relevant materials.
   - Readers are advised to consult the GitHub repository regularly for the latest supplementary content. The materials available on the repository should be used in conjunction with the book, adhering to the stated copyright and licensing terms.
