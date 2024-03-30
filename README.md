@@ -41,3 +41,17 @@ You are free to:
   - The author encourages responsible sharing, active discussion, and the application of knowledge from this book for educational, research, and non-commercial purposes, while respecting the stated intellectual property rights. Any errors, omissions, or concerns may be brought to the attention of the author/publisher.
 
 For any commercial use or activities beyond the scope of the CC BY-NC 4.0 License, written permission from the author (Partha Pratim Ray) is required.
+
+# Supplementary Content Notice
+
+Please note that supplementary materials, resources, and updates related to the book "A Guide to Indian Knowledge Systems" are dynamically available at the following GitHub repository:
+
+https://github.com/ParthaPRay/A-Guide-to-Indian-Knowledge-Systems/
+
+The content in this repository is intended to complement and enhance the information provided in the published book. It may include additional references, visuals, clarifications, errata, or any other relevant materials.
+
+Readers are advised to consult the GitHub repository regularly for the latest supplementary content. The materials available on the repository should be used in conjunction with the book, adhering to the stated copyright and licensing terms.
+
+The author and publisher aim to maintain an up-to-date and enriched experience for readers by providing these supplementary resources. However, it is essential to exercise proper attention and due diligence when utilizing any materials from the repository.
+
+For any specific inquiries or clarifications regarding the supplementary content, please contact the author or publisher through the appropriate channels mentioned in the book or on the GitHub repository.
