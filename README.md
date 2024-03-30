@@ -48,10 +48,7 @@ Please note that supplementary materials, resources, and updates related to the 
 
 https://github.com/ParthaPRay/A-Guide-to-Indian-Knowledge-Systems/
 
-The content in this repository is intended to complement and enhance the information provided in the published book. It may include additional references, visuals, clarifications, errata, or any other relevant materials.
-
-Readers are advised to consult the GitHub repository regularly for the latest supplementary content. The materials available on the repository should be used in conjunction with the book, adhering to the stated copyright and licensing terms.
-
-The author and publisher aim to maintain an up-to-date and enriched experience for readers by providing these supplementary resources. However, it is essential to exercise proper attention and due diligence when utilizing any materials from the repository.
-
-For any specific inquiries or clarifications regarding the supplementary content, please contact the author or publisher through the appropriate channels mentioned in the book or on the GitHub repository.
+  - The content in this repository is intended to complement and enhance the information provided in the published book. It may include additional references, visuals, clarifications, errata, or any other relevant materials.
+  - Readers are advised to consult the GitHub repository regularly for the latest supplementary content. The materials available on the repository should be used in conjunction with the book, adhering to the stated copyright and licensing terms.
+  - The author and publisher aim to maintain an up-to-date and enriched experience for readers by providing these supplementary resources. However, it is essential to exercise proper attention and due diligence when utilizing any materials from the repository.
+  - For any specific inquiries or clarifications regarding the supplementary content, please contact the author or publisher through the appropriate channels mentioned in the book or on the GitHub repository.
