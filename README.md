@@ -3,7 +3,7 @@ This repository lists important materials for the book "A Guide to Indian Knowle
 
 
 
-#Important Notes
+# Important Notes
 
 About the Book
 
@@ -11,7 +11,7 @@ This book provides a comprehensive overview and guide to the various Indian know
 It covers foundational texts, major concepts, historical evolution, and modern relevance of these knowledge traditions.
 The book aligns with integrating Indian knowledge systems into mainstream education as per the National Education Policy 2020.
 
-#Copyright and License
+# Copyright and License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
 
@@ -25,14 +25,14 @@ You are free to:
   - NonCommercial — You may not use the material for commercial purposes.
   - No Additional Restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-#What Readers Should Do
+# What Readers Should Do
 
   - Carefully review the terms of the Creative Commons CC BY-NC 4.0 License.
   - Provide proper attribution to the author (Partha Pratim Ray) and source when reusing or adapting any part of this work.
   - Feel free to share excerpts or insights from the book for educational, research, or non-commercial purposes while giving due credit.
   - Engage thoughtfully with the content and perspectives presented in the book.
 
-#What Readers Should Not Do
+# What Readers Should Not Do
 
   - Do not reproduce or distribute the complete work for any commercial purpose without explicit written permission from the author.
   - Do not misrepresent the content or present adapted versions as the original work.
